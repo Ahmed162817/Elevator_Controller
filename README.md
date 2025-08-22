@@ -8,4 +8,4 @@ controller. The design emphasizes request prioritization, stop/resume functional
 accuracy. Simulation and verification are used to confirm correct behavior under multiple operating
 scenarios.
 
-![image alt] (https://raw.githubusercontent.com/Ahmed162817/Elevator_Controller/27a6eb4e383b6ff649ce70ae9c57130e36d5c0f6/Block_level_Architecture.svg)
+![image alt](https://raw.githubusercontent.com/Ahmed162817/Elevator_Controller/27a6eb4e383b6ff649ce70ae9c57130e36d5c0f6/Block_level_Architecture.svg)
